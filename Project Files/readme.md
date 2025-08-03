@@ -49,9 +49,6 @@ Stripe / Razorpay (for payments - optional)
 
 📦 Installation bash Copy code
 
-Clone the repo
-git clone https://github.com/yourusername/learnhub.git cd learnhub
-
 Install backend dependencies
 cd backend npm install
 
