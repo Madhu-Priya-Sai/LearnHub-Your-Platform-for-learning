@@ -1,4 +1,4 @@
-LearnHub-Your-Platform-for-learning
+
 📚 LearnHub: Your Center for Skill Enhancement LearnHub is an online learning platform that empowers students, instructors, and administrators to manage, create, and engage with skill-based courses. From course creation to progress tracking and certification, LearnHub makes learning seamless, interactive, and accessible for all.
 
 💡 Features 👤 User Registration & JWT Login
